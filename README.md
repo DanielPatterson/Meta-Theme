@@ -14,9 +14,11 @@
 
 
 **Windows Phone**
+
 `<meta name="msapplication-navbutton-color" content="#0099cc">`
 
 
 
 **iOS Safari**
+
 `<meta name="apple-mobile-web-app-status-bar-style" content="#0099cc">`
